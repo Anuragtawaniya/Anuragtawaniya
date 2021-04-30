@@ -1,4 +1,4 @@
-### Holo It's Anurag Tawaniya 👋
+### Hola It's Anurag Tawaniya 👋
 
 - 🌱 I’m currently learning Javascript Frameworks
 - 💬 Ask me about Python Django Javascript
