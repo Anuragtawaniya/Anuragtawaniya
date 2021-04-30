@@ -37,5 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragtawaniya&show_icons=true&locale=en" alt="anuragtawaniya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragtawaniya&" alt="anuragtawaniya" /></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragtawaniya&show_icons=true&theme=radical)
+
 
