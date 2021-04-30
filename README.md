@@ -1,8 +1,11 @@
-### Hola It's Anurag Tawaniya 👋
+### Hi there 👋, Anurag Tawaniya
+#### Design and Development
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-- 🌱 I’m currently learning React Native
-- 💬 Ask me about Python Django Javascript
-- 📫 How to reach me: Twitter @anurag_tawaniya
-- ⚡ Fun fact: I spend almost 10 hours listening songs everyday.
+Skills: Django/ Python / JS / HTML / CSS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragtawaniya)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on this page. 
+
+
+
+
