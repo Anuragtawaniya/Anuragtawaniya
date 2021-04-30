@@ -1,10 +1,14 @@
 ### Hi there 👋, Anurag Tawaniya
 #### Design and Development
+![Design and Development](https://media-exp1.licdn.com/dms/image/C4E16AQE6jl3dX57ERA/profile-displaybackgroundimage-shrink_350_1400/0/1614152929489?e=1625097600&v=beta&t=x4zvcbDEPnTdWmOrAvWfC-sfM3lm_gneav1m9L9Ggwk)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: Django/ Python / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning React Native 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anuragtawaniya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anuragtawaniya/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anuragt.js/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/anurag_tawaniya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](anuragtawaniya.github.io)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://www.google.com/url?sa=i&url=https%3A%2F%2Fjunilearning.com%2Fblog%2Fguide%2Fwhat-is-python-101-for-students%2F&psig=AOvVaw1FkNiU53JnnyD1EbqwbVGh&ust=1619852381361000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiHmcCypfACFQAAAAAdAAAAABAD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pluralsight.com%2Fpaths%2Fjavascript-core-language&psig=AOvVaw1D9oFgIZNxQjYroBv--eQr&ust=1619852419570000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICrwtKypfACFQAAAAAdAAAAABAD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg' alt='django' height='40'>](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-django-web-development-web-framework-python-softwa-5166140%2F&psig=AOvVaw2GNFwGC3SNiAvWAyYfM9PG&ust=1619852439690000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOi0zdyypfACFQAAAAAdAAAAABAD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhackr.io%2Ftutorials%2Flearn-html-5&psig=AOvVaw1k__zKio07eNRHABArrx9T&ust=1619852466968000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNi-3-iypfACFQAAAAAdAAAAABAI)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCSS&psig=AOvVaw1aIkAZ0RXpmrVrbt2FQKGU&ust=1619852490379000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjK1POypfACFQAAAAAdAAAAABAD)  
 
 
